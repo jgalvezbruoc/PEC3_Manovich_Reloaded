@@ -33,7 +33,7 @@ Finalemnete, esta transformación plantea ventajas evidentes, pero también reto
 
 Strava es una app de registro deportivo que convierte la actividad física en contenido social y visual. Hibrida datos biométricos, geolocalización, visualización en mapas y funciones sociales. Con solo activar el GPS, la actividad se traduce en métricas (datos) que el usuario puede revisar, analizar y compartir con los usuarios de la app.
 
-Esta app hibrida medios y funciones: movimiento físico, visualización geoespacial, cuantificación biométrica, interfaz móvil e interacción social. Según el libro Manovich, representa una hibridación avanzada: el cuerpo y el entorno físico se traducen en datos que el software reinterpreta visualmente y convierte en contenido compartible.
+Esta app hibrida medios y funciones, como por ejemplo movimiento físico, visualización geoespacial, cuantificación biométrica, interfaz móvil e interacción social. Según el libro Manovich, representa una hibridación avanzada, ya que el cuerpo y el entorno físico se traducen en datos que el software reinterpreta visualmente y convierte en contenido para compartir.
 
 Strava convierte el ejercicio en una gran variedad de datos podiendo ver día tras día el progreso. La experiencia corporal se transforma en una interfaz de datos: tiempo, distancia, ritmo, altitud, esfuerzo. Estos datos, se presentan mediante representaciones visuales como mapas, curvas, estadísticas recreando un nuevo lenguaje visual del esfuerzo físico.
 
