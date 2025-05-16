@@ -8,7 +8,7 @@ Autor: Jorge Gálvez Bravo
 
 Fecha: 15/05/2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
+
 
 ## Planteamiento
 
@@ -25,6 +25,9 @@ Photomath transforma la experiencia del aula. Automatiza procesos cognitivos, su
 Finalemnete, esta transformación plantea ventajas evidentes, pero también retos, como la dependencia de interfaces y la pérdida de reflexión crítica si se usa sin acompañamiento pedagógico.
 
 
+![Photomath](https://i.blogs.es/3698e4/photo2_photomath/450_1000.webp)
+
+
 
 ## Re-descubriendo la hibridación: Caso 2 – Strava
 
@@ -35,6 +38,10 @@ Esta app hibrida medios y funciones: movimiento físico, visualización geoespac
 Strava convierte el ejercicio en una narrativa cuantificada. La experiencia corporal se transforma en una interfaz de datos: tiempo, distancia, ritmo, altitud, esfuerzo. Estos datos, a su vez, se presentan mediante representaciones visuales —mapas, curvas, estadísticas— que configuran un nuevo lenguaje visual del esfuerzo físico.
 
 Strava, más que una herramienta, es una plataforma híbrida que transforma el cuerpo en fuente de datos y el entorno físico en escenario digital. Automatiza la medición, estetiza la experiencia y convierte el deporte en medio de comunicación y autoexpresión.
+
+
+![Strava](https://noticiaslogisticaytransporte.com/wp-content/uploads/2020/02/Strava.jpg)
+
 
 
 
