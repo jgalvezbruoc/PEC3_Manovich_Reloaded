@@ -12,17 +12,17 @@ Fecha: 15/05/2025
 
 ## Planteamiento
 
-En el contexto actual, marcado por la digitalización y la automatización de prácticas cotidianas, el software ha pasado de ser una herramienta técnica a convertirse en el motor cultural de nuestra época. Según Lev Manovich en *El software toma el mando*, ya no consumimos medios aislados, sino sistemas híbridos que mezclan funciones, lenguajes y lógicas antes separadas. Esta hibridación no solo combina texto, imagen o sonido, sino que crea nuevos formatos expresivos y funcionales. En este trabajo se analizan dos ejemplos actuales de hibridación digital: **Photomath**, que transforma el aprendizaje matemático en una experiencia visual automatizada, y **Strava**, que convierte la actividad física en narrativa de datos y conexión social.
-
+Vivimos en una época marcadas por la digitalización y la automatización de prácticas cotidianas, el software ha pasado de ser una herramienta técnica a convertirse en el motor cultural de la mayoría de nuestras acciones. Según Lev Manovich en El software toma el mando, ya no consumimos medios aislados, sino sistemas híbridos que mezclan funciones, lenguajes y lógicas antes separadas. Esta hibridación no solo combina texto, imagen o sonido, sino que crea nuevos formatos. En este ensayo se analizan dos ejemplos actuales de hibridación digital: Photomath, que transforma el aprendizaje matemático en una experiencia visual automatizada, y Strava, que convierte la actividad física en “datos” y conexión social.
 
 
 ## Re-descubriendo la hibridación: Caso 1 – Photomath
 
-Photomath es una aplicación educativa que permite escanear operaciones matemáticas y muestra su resolución paso a paso. Utiliza reconocimiento óptico de caracteres (OCR), cálculo simbólico y visualización animada. El texto escrito se convierte en imagen interpretada, en operación lógica, y finalmente en animación interactiva. Esta secuencia ejemplifica lo que Manovich denomina hibridación funcional y representacional.
+Photomath es una aplicación educativa que permite escanear o fotografiar operaciones matemáticas y muestrael paso a paso de su resolución. Utiliza reconocimiento óptico de caracteres (OCR), cálculo simbólico y visualización animada. El texto escrito se convierte en imagen interpretada, luego en operación lógica, y finalmente en animación interactiva. Esta secuencia ejemplifica lo que Manovich denomina hibridación funcional y representacional.
 
-El usuario no introduce datos: basta con enfocar la cámara. El software interpreta y transforma automáticamente el contenido, facilitando no solo la resolución, sino también la comprensión visual del proceso. El medio impreso se fusiona con la lógica algorítmica, generando un nuevo lenguaje de aprendizaje visual.
+Este software interpreta y transforma automáticamente el contenido que se le pasa, facilitando no solo la resolución, sino también la comprensión visual del proceso. El medio impreso se fusiona con la lógica algorítmica, generando un nuevo lenguaje de aprendizaje visual.
 
-Photomath transforma la experiencia del aula. Automatiza procesos cognitivos, sustituye la escritura por escaneo y el razonamiento manual por resolución guiada. Como indica Manovich, el software no solo representa, sino que también reorganiza prácticas culturales: en este caso, la enseñanza y el aprendizaje. Esta transformación plantea ventajas evidentes, pero también retos, como la dependencia de interfaces y la pérdida de reflexión crítica si se usa sin acompañamiento pedagógico.
+Photomath transforma la experiencia del aula. Automatiza procesos cognitivos, sustituye la escritura por escaneo y el razonamiento manual por resolución guiada. Como indica Manovich, el software no solo representa, sino que también reorganiza prácticas culturales: en este caso, la enseñanza y el aprendizaje. 
+Finalemnete, esta transformación plantea ventajas evidentes, pero también retos, como la dependencia de interfaces y la pérdida de reflexión crítica si se usa sin acompañamiento pedagógico.
 
 
 
