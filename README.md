@@ -1,16 +1,20 @@
 # PEC3: Visionando el futuro con las gafas de Manovich  
-**Recurso de aprendizaje de Cultura Digital**  
-**Autor:** Jorge Gálvez Bravo  
-**Fecha:** 15/05/2025  
-**Asignatura:** Cultura Digital  
 
----
+### Recurso de aprendizaje de Cultura Digital 
+
+
+Autor: Jorge Gálvez Bravo 
+
+
+Fecha: 15/05/2025
+
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
 
 ## Planteamiento
 
 En el contexto actual, marcado por la digitalización y la automatización de prácticas cotidianas, el software ha pasado de ser una herramienta técnica a convertirse en el motor cultural de nuestra época. Según Lev Manovich en *El software toma el mando*, ya no consumimos medios aislados, sino sistemas híbridos que mezclan funciones, lenguajes y lógicas antes separadas. Esta hibridación no solo combina texto, imagen o sonido, sino que crea nuevos formatos expresivos y funcionales. En este trabajo se analizan dos ejemplos actuales de hibridación digital: **Photomath**, que transforma el aprendizaje matemático en una experiencia visual automatizada, y **Strava**, que convierte la actividad física en narrativa de datos y conexión social.
 
----
+
 
 ## Re-descubriendo la hibridación: Caso 1 – Photomath
 
@@ -20,7 +24,7 @@ El usuario no introduce datos: basta con enfocar la cámara. El software interpr
 
 Photomath transforma la experiencia del aula. Automatiza procesos cognitivos, sustituye la escritura por escaneo y el razonamiento manual por resolución guiada. Como indica Manovich, el software no solo representa, sino que también reorganiza prácticas culturales: en este caso, la enseñanza y el aprendizaje. Esta transformación plantea ventajas evidentes, pero también retos, como la dependencia de interfaces y la pérdida de reflexión crítica si se usa sin acompañamiento pedagógico.
 
----
+
 
 ## Re-descubriendo la hibridación: Caso 2 – Strava
 
@@ -32,13 +36,13 @@ Strava convierte el ejercicio en una narrativa cuantificada. La experiencia corp
 
 Strava, más que una herramienta, es una plataforma híbrida que transforma el cuerpo en fuente de datos y el entorno físico en escenario digital. Automatiza la medición, estetiza la experiencia y convierte el deporte en medio de comunicación y autoexpresión.
 
----
+
 
 ## Valoración personal
 
 Ambos casos muestran cómo el software reorganiza actividades cotidianas —como resolver problemas o hacer deporte— en experiencias híbridas. Me ha sorprendido especialmente cómo **Photomath** convierte el saber lógico en visualización guiada, y cómo **Strava** transforma el cuerpo en narrativa compartida. Gracias al marco conceptual de Manovich he podido ver que no se trata solo de tecnología útil, sino de una reconfiguración cultural profunda: nuevos lenguajes, nuevas plataformas, nuevas formas de entender el conocimiento y la identidad.
 
----
+
 
 ## Referencias y Bibliografía
 
